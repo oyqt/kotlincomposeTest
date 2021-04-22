@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin Compose</string>
+
+    <string name="tab_find">发现</string>
+    <string name="tab_staore">商店</string>
+    <string name="tab_favourite">收藏</string>
+    <string name="tab_profile">我的</string>
+</resources>
